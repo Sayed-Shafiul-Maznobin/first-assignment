@@ -226,3 +226,47 @@
  .tak img {
      border-radius: 40px;
  }
+
+
+ .heading {
+     font-size: 40px;
+
+ }
+
+ .contact {
+     width: 1440px;
+     height: auto;
+     display: flex;
+     justify-content: space-between;
+     vertical-align: baseline;
+
+ }
+
+ .info {
+     padding-right: 200px;
+ }
+
+ form {
+     font-size: 20px;
+ 
+ }
+
+ input {
+    width: 350px ;
+    height:45px ;
+     color: red;
+     border-radius: 10px;
+     
+ }
+ .msg{
+    height: 100px;
+ }
+ .btnlast{
+    width: 350px;
+    height: 60px;
+ }
+
+ input::placeholder{
+    color: #0000005e;
+    font-size: 15px;
+ }
