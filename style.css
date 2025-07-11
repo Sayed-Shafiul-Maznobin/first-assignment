@@ -1,272 +1,322 @@
- .font-Raleway {
-     font-family: "Open Sans", sans-serif;
-     font-optical-sizing: auto;
-     font-weight: normal;
-     font-style: normal;
-     font-variation-settings:
-         "wdth" 100;
- }
+.font-Raleway {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
 
- .full {
-     max-width: 1440px;
-     margin-top: 5px;
- }
+.full {
+    max-width: 1440px;
+    margin-top: 5px;
+}
 
- /* .page1 {
+/* .page1 {
      width: 500px;
  } */
 
- .logo {
-     color: #4E47FF;
-     font-size: 34px;
-     font-weight: bolder;
- }
+.logo {
+    color: #4E47FF;
+    font-size: 34px;
+    font-weight: bolder;
+}
 
- .navbar {
-     display: flex;
-     text-align: center;
-     justify-content: center;
-     justify-content: space-between;
- }
+.navbar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-between;
+}
 
- .button-all {
+.button-all {
 
-     background-color: #4E47FF;
-     color: white;
-     padding: 12px 36px;
-     border-radius: 10px;
-     border: none;
- }
+    background-color: #4E47FF;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+}
 
- .logo {
-     margin-left: 100px;
-     font-weight: 790;
- }
+.logo {
+    margin-left: 100px;
+    font-weight: 790;
+}
 
- .sign-up {
-     margin-right: 100px;
-     font-size: 16px;
-     margin-top: 5px;
+.sign-up {
+    margin-right: 100px;
+    font-size: 16px;
+    margin-top: 5px;
 
- }
-
-
- header {
-     background-image: url("Assets/Hero-bg.png");
-     width: 1350px;
-     height: 698px;
- }
-
- .cool {
-     margin-top: 90px;
-     /* margin-bottom: 200px; */
-     color: #252432;
-     font-weight: 600;
-     text-align: center;
-     font-size: 65px;
-     justify-content: center;
-     margin-right: 2px;
- }
-
- .button2 {
-     justify-content: center;
-     text-align: center;
-     margin-bottom: 60px;
-     margin-bottom: 200px;
-     margin-top: 2000px;
-
- }
-
- .cool-and-button {
-     justify-content: center;
-     text-align: center;
-     gap: 0px;
-     display: flexbox;
-     margin-right: 100px;
- }
-
- body {
-     width: 1440px;
- }
-
- body {
-     margin: 0;
-     padding: 0;
-     /* overflow: hidden; */
- }
-
- .action-and-image {
-     display: flex;
-     justify-content: space-between;
-     margin: 0px 150px auto 80px;
- }
-
- .action1 {
-     font-size: x-large;
- }
-
- .explore {
-     color: #2524327c;
-     font-weight: 100;
- }
-
- .action-image {
-     border-radius: 10%;
- }
-
- h3.actionhead {
-     font-weight: 650;
-     font-size: 40px;
- }
-
- .productive {
-     background-color: #4d47ff3a;
-     width: 1140px;
-     height: 400px;
-     border: auto 50 auto 100;
-     border-radius: 50px;
-     justify-content: center;
-     text-align: center;
-     color: #252432;
-     margin-left: 50px;
-     padding: 50px;
+}
 
 
- }
+header {
+    background-image: url("Assets/Hero-bg.png");
+    width: 1350px;
+    height: 698px;
+}
 
- .joined {
-     font-size: 38px;
-     gap: 30px;
+.cool {
+    margin-top: 90px;
+    /* margin-bottom: 200px; */
+    color: #252432;
+    font-weight: 600;
+    text-align: center;
+    font-size: 65px;
+    justify-content: center;
+    margin-right: 2px;
+}
 
- }
+.button2 {
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-bottom: 200px;
+    margin-top: 2000px;
 
- .joined123 {
-     display: flex;
-     text-align: center;
-     justify-content: space-around;
-     padding: 30px;
+}
 
+.cool-and-button {
+    justify-content: center;
+    text-align: center;
+    gap: 0px;
+    display: flexbox;
+    margin-right: 100px;
+}
 
- }
+body {
+    width: 1440px;
+}
 
- .j1 h1,
- .j2 h1,
- .j3 h1 {
-     color: #4E47FF;
-     font-size: 70px;
- }
+body {
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
 
+.action-and-image {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150px auto 80px;
+}
 
- .j1 p,
- .j2 p,
- .j3 p {
-     color: #000000;
-     font-size: 20;
- }
+.action1 {
+    font-size: x-large;
+}
 
- .users {
-     font-size: 42px;
-     text-align: center;
-     justify-content: center;
- }
+.explore {
+    color: #2524327c;
+    font-weight: 100;
+}
 
+.action-image {
+    border-radius: 10%;
+}
 
- .box {
-     width: 366px;
-     height: 215px;
-     border: 1px solid black;
-     padding: 10px;
-     font-size: 14px;
+h3.actionhead {
+    font-weight: 650;
+    font-size: 40px;
+}
 
-     border: 1px solid rgba(0, 0, 0, 0.144);
-     border-radius: 20px;
- }
-
- .riac {
-     display: inline-flex;
-     vertical-align: bottom;
- }
-
- .boxes {
-     margin-left: 70px;
-     display: flex;
-     gap: 15px;
-
- }
-
- .ready {
-     background-color: rgba(120, 209, 221, 0.123);
-     text-align: center;
-     justify-content: center;
-     width: 1440px;
-
- }
-
- .ready h3 {
-     font-size: 30px;
-     font-weight: 630;
-
- }
-
- .ready p {
-     margin-right: 10px;
-     color: #0000006e;
-     margin: auto 300px;
-
- }
-
- .tak {
-
-     padding-right: 110px;
-     border-radius: 50%;
+.productive {
+    background-color: #4d47ff3a;
+    width: 1140px;
+    height: 400px;
+    border: auto 50 auto 100;
+    border-radius: 50px;
+    justify-content: center;
+    text-align: center;
+    color: #252432;
+    margin-left: 50px;
+    padding: 50px;
 
 
- }
+}
 
- .tak img {
-     border-radius: 40px;
- }
+.joined {
+    font-size: 38px;
+    gap: 30px;
+
+}
+
+.joined123 {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 30px;
 
 
- .heading {
-     font-size: 40px;
+}
 
- }
+.j1 h1,
+.j2 h1,
+.j3 h1 {
+    color: #4E47FF;
+    font-size: 70px;
+}
 
- .contact {
-     width: 1440px;
-     height: auto;
-     display: flex;
-     justify-content: space-between;
-     vertical-align: baseline;
 
- }
+.j1 p,
+.j2 p,
+.j3 p {
+    color: #000000;
+    font-size: 20;
+}
 
- .info {
-     padding-right: 200px;
- }
+.users {
+    font-size: 42px;
+    text-align: center;
+    justify-content: center;
+}
 
- form {
-     font-size: 20px;
- 
- }
 
- input {
-    width: 350px ;
-    height:45px ;
-     color: red;
-     border-radius: 10px;
-     
- }
- .msg{
+.box {
+    width: 366px;
+    height: 215px;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 14px;
+
+    border: 1px solid rgba(0, 0, 0, 0.144);
+    border-radius: 20px;
+}
+
+.riac {
+    display: inline-flex;
+    vertical-align: bottom;
+}
+
+.boxes {
+    margin-left: 70px;
+    display: flex;
+    gap: 15px;
+
+}
+
+.ready {
+    background-color: rgba(120, 209, 221, 0.123);
+    text-align: center;
+    justify-content: center;
+    width: 1440px;
+
+}
+
+.ready h3 {
+    font-size: 30px;
+    font-weight: 630;
+
+}
+
+.ready p {
+    margin-right: 10px;
+    color: #0000006e;
+    margin: auto 300px;
+
+}
+
+.tak {
+
+    padding-right: 110px;
+    border-radius: 50%;
+
+
+}
+
+.tak img {
+    border-radius: 40px;
+}
+
+
+.heading {
+    font-size: 40px;
+
+}
+
+.contact {
+    width: 1440px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    vertical-align: baseline;
+
+}
+
+.info {
+    padding-right: 200px;
+}
+
+form {
+    font-size: 20px;
+
+}
+
+input {
+    width: 350px;
+    height: 45px;
+    color: red;
+    border-radius: 10px;
+
+}
+
+.msg {
     height: 100px;
- }
- .btnlast{
+}
+
+.btnlast {
     width: 350px;
     height: 60px;
- }
+}
 
- input::placeholder{
+input::placeholder {
     color: #0000005e;
     font-size: 15px;
- }
+}
+
+footer h1 {
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+}
+
+
+
+
+footer {
+    width: 551px;
+    justify-content: center;
+    text-align: center;
+    color: #252432;
+    margin-left: 340px;
+    padding: 50px;
+}
+
+footer.h1 {
+    font-size: 100px;
+
+}
+
+footer p {
+    color: #8987A1;
+}
+
+
+
+
+.lgs {
+    color: #8987A1;
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    color: #8987A1;
+    text-decoration: none;
+}
+
+
+button:hover {
+    background-color: rgba(255, 0, 0, 0.562);
+    transition-duration: .3s;
+}
