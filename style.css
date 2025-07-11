@@ -8,6 +8,7 @@
 }
 
 .full {
+    background-image: linear-gradient(rgba(236, 247, 155, 0.062), rgba(118, 222, 240, 0.212));
     max-width: 1440px;
     margin-top: 5px;
 }
@@ -252,9 +253,13 @@ form {
 }
 
 input {
+    border-color: #0000005b;
+
+}
+
+input {
     width: 350px;
     height: 45px;
-    color: red;
     border-radius: 10px;
 
 }
@@ -317,6 +322,6 @@ a {
 
 
 button:hover {
-    background-color: rgba(255, 0, 0, 0.562);
-    transition-duration: .3s;
+    background-color: rgba(255, 0, 0, 0.77);
+    transition-duration: .2s;
 }
