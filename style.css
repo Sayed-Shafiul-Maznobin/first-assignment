@@ -8,7 +8,6 @@
  }
 
  .full {
-
      max-width: 1440px;
      margin-top: 5px;
  }
@@ -193,4 +192,37 @@
      display: flex;
      gap: 15px;
 
+ }
+
+ .ready {
+     background-color: rgba(120, 209, 221, 0.123);
+     text-align: center;
+     justify-content: center;
+     width: 1440px;
+
+ }
+
+ .ready h3 {
+     font-size: 30px;
+     font-weight: 630;
+
+ }
+
+ .ready p {
+     margin-right: 10px;
+     color: #0000006e;
+     margin: auto 300px;
+
+ }
+
+ .tak {
+
+     padding-right: 110px;
+     border-radius: 50%;
+
+
+ }
+
+ .tak img {
+     border-radius: 40px;
  }
